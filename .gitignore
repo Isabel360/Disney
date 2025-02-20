@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ons data voor Disney
+data
+
 # C extensions
 *.so
 
