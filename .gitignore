@@ -5,6 +5,7 @@ __pycache__/
 
 #ons data voor Disney
 data
+.DS_Store
 
 # C extensions
 *.so
